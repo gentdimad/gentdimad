@@ -19,7 +19,7 @@ I have some experience working with the following modules, frameworks, libraries
   
 ## Javascript:
   Projects:
-  - ### Airline Reservation System
+  - ### Flight Reservation System
   -- React JS (Web Development)
 
 ## C: 
