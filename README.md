@@ -7,7 +7,7 @@ I have some experience working with the following modules, frameworks, libraries
   - ### ARSAlgorithm
   -- Jupyter (Data Analytics, AI, Natural Language Processing)
   
-  ### Airline Reservation System
+  - ### Airline Reservation System
   -- Django (Web Development)
 
   - ### PixeLISP
