@@ -8,7 +8,7 @@ I have some experience working with the following modules, frameworks, libraries
   -- Jupyter (Data Analytics, AI, Natural Language Processing)
   
   ### Airline Reservation System
-  - Django (Web Development)
+  -- Django (Web Development)
 
   - ### PixeLISP
   -- PyGame (Game Development)
