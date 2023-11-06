@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+I have some experience working with the following modules, frameworks, libraries, and miscellaneou,s in the following languages:
+
+Python:
+  ARSAlgorithm
+  - Jupyter (Data Analytics, AI, Natural Language Processing)
+  
+  Airline Reservation System
+  - Django (Web Development)
+
+  PixeLISP
+  - PyGame (Game Development)
+
+  Bible Assistant
+  - PySimpleGUI, Flet (Natural Language Processing)
+  
+  
+Javascript: 
+  Airline Reservation System
+  - React JS (Web Development)
+
+C: 
+  Banking System (A small project)
+  - Loaning System with User Registration, Login, and Data Management
+
+Java: 
+  EPOS System (A small project)
+  - McDonalds
+
+I am currently working on an automated candidate shortlisting support system using various AI models.
+At the same time, I am currently learning new languages, both for programming and for communication. These are C# and Japanese respectively.
+
 <!--
 **gentdimad/gentdimad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
