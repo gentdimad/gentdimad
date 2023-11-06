@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I have some experience working with the following modules, frameworks, libraries, and miscellaneou,s in the following languages:
 
@@ -19,12 +19,12 @@ I have some experience working with the following modules, frameworks, libraries
   
 ## Javascript:
   Projects:
-  -### Airline Reservation System
+  - ### Airline Reservation System
   -- React JS (Web Development)
 
 ## C: 
   Projects:
-  -### Banking System (A small project)
+  - ### Banking System (A small project)
   -- Loaning System with User Registration, Login, and Data Management
 
 ## Java: 
