@@ -25,7 +25,7 @@ I have some experience working with the following modules, frameworks, libraries
 ## C: 
   Projects:
   - ### Banking System (A small project)
-  -- Loaning System with User Registration, Login, and Data Management
+  -- Bank System with User Registration, Login, and Data Management
 
 ## Java: 
   Projects:
