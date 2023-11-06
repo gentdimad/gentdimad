@@ -2,35 +2,35 @@
 
 I have some experience working with the following modules, frameworks, libraries, and miscellaneou,s in the following languages:
 
-##Python:
+## Python:
   Projects:
-  ###ARSAlgorithm
-  - Jupyter (Data Analytics, AI, Natural Language Processing)
+  -### ARSAlgorithm
+  -- Jupyter (Data Analytics, AI, Natural Language Processing)
   
-  ###Airline Reservation System
+  ### Airline Reservation System
   - Django (Web Development)
 
-  ###PixeLISP
-  - PyGame (Game Development)
+  -### PixeLISP
+  -- PyGame (Game Development)
 
-  ###Bible Assistant
-  - PySimpleGUI, Flet (Natural Language Processing)
+  -### Bible Assistant
+  -- PySimpleGUI, Flet (Natural Language Processing)
   
   
-##Javascript:
+## Javascript:
   Projects:
-  ###Airline Reservation System
-  - React JS (Web Development)
+  -### Airline Reservation System
+  -- React JS (Web Development)
 
-##C: 
+## C: 
   Projects:
-  ###Banking System (A small project)
-  - Loaning System with User Registration, Login, and Data Management
+  -### Banking System (A small project)
+  -- Loaning System with User Registration, Login, and Data Management
 
-##Java: 
+## Java: 
   Projects:
-  ###EPOS System (A small project)
-  - McDonalds
+  - ### EPOS System (A small project)
+  -- McDonalds
 
 I am currently working on an automated candidate shortlisting support system using various AI models.
 At the same time, I am currently learning new languages, both for programming and for communication. These are C# and Japanese respectively.
