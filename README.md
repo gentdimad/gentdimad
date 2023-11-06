@@ -4,16 +4,16 @@ I have some experience working with the following modules, frameworks, libraries
 
 ## Python:
   Projects:
-  -### ARSAlgorithm
+  - ### ARSAlgorithm
   -- Jupyter (Data Analytics, AI, Natural Language Processing)
   
   ### Airline Reservation System
   - Django (Web Development)
 
-  -### PixeLISP
+  - ### PixeLISP
   -- PyGame (Game Development)
 
-  -### Bible Assistant
+  - ### Bible Assistant
   -- PySimpleGUI, Flet (Natural Language Processing)
   
   
