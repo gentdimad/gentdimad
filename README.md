@@ -2,30 +2,34 @@
 
 I have some experience working with the following modules, frameworks, libraries, and miscellaneou,s in the following languages:
 
-Python:
-  ARSAlgorithm
+##Python:
+  Projects:
+  ###ARSAlgorithm
   - Jupyter (Data Analytics, AI, Natural Language Processing)
   
-  Airline Reservation System
+  ###Airline Reservation System
   - Django (Web Development)
 
-  PixeLISP
+  ###PixeLISP
   - PyGame (Game Development)
 
-  Bible Assistant
+  ###Bible Assistant
   - PySimpleGUI, Flet (Natural Language Processing)
   
   
-Javascript: 
-  Airline Reservation System
+##Javascript:
+  Projects:
+  ###Airline Reservation System
   - React JS (Web Development)
 
-C: 
-  Banking System (A small project)
+##C: 
+  Projects:
+  ###Banking System (A small project)
   - Loaning System with User Registration, Login, and Data Management
 
-Java: 
-  EPOS System (A small project)
+##Java: 
+  Projects:
+  ###EPOS System (A small project)
   - McDonalds
 
 I am currently working on an automated candidate shortlisting support system using various AI models.
