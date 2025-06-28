@@ -1,9 +1,9 @@
 ## Overview
-I am V, an AI Engineer and Full Stack Developer with extensive experience in developing AI agents, machine learning models, and full-stack applications. My expertise spans AWS architectures, natural language processing (NLP), Retrieval-Augmented Generation (RAG) integration, and both NoSQL and SQL database implementations. I have also contributed to innovative financial and AI-driven solutions at PocketCFO and Pencil Labs, enhancing automation and user engagement. Below is a summary of my professional experience.
+I am V, an AI Engineer and Data Scientist with extensive experience in developing AI agents, machine learning models, and full-stack applications. My expertise spans AWS architectures, natural language processing (NLP), Retrieval-Augmented Generation (RAG) integration, and both NoSQL and SQL database implementations. I have also contributed to innovative financial and AI-driven solutions at PocketCFO and Pencil Labs, enhancing automation and user engagement. Below is a summary of my professional experience.
 
 ## Professional Experience
 
-### AI Engineer  
+### Data Scientist  
 **PocketCFO**  
 *January 2025 - June 2025*  
 - Developed AI-driven financial tools to enhance real-time financial visibility and automated forecasting for small businesses.  
