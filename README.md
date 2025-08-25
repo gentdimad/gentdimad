@@ -9,7 +9,7 @@ I am V, an AI Engineer and Data Scientist with extensive experience in developin
 - Finetuned LoRA modules for quantized models using SFT, DPO, GRPO for personalized chatbots that emulate content creator personalities and responses
 - Implemented a conversation summarizer that is plugged into the chat flow to extract conversation key details for improved context and responses for chatbots
 - Developed a recommender system that suggested media_ids from Supabase depending on what type of media a user requested using an LLM and a pipeline with FastAPI
-- Organized tech workflow by implementing a task board connected to GitHub and sends automatic status updates to Slack with n8n
+- Organized tech workflow by implementing a task board connected to GitHub that sends automatic status updates to Slack with n8n
 
 ### Data Scientist  
 **PocketCFO**  
