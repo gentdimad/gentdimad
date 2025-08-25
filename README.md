@@ -3,6 +3,14 @@ I am V, an AI Engineer and Data Scientist with extensive experience in developin
 
 ## Professional Experience
 
+### AI Engineer
+**Liamoon**
+*June 2025 - August 2025*
+- Finetuned LoRA modules for quantized models using SFT, DPO, GRPO for personalized chatbots that emulate content creator personalities and responses
+- Implemented a conversation summarizer that is plugged into the chat flow to extract conversation key details for improved context and responses for chatbots
+- Developed a recommender system that suggested media_ids from Supabase depending on what type of media a user requested using an LLM and a pipeline with FastAPI
+- Organized tech workflow by implementing a task board connected to GitHub and sends automatic status updates to Slack with n8n
+
 ### Data Scientist  
 **PocketCFO**  
 *January 2025 - June 2025*  
@@ -18,7 +26,7 @@ I am V, an AI Engineer and Data Scientist with extensive experience in developin
 - Worked on tailored AI solutions to promote resource expansion and customer engagement with minimal effort.[](https://www.crunchbase.com/organization/pencil-labs)
 
 ### AI Engineer  
-**Xeleat Technologies Inc.**  
+**Xeleqt Technologies Inc.**  
 *July 2024 - December 2024*  
 - Developed an AI agent for multiple product platforms utilizing an AWS architecture.  
 - Created multi-function capabilities for AI agents, focusing on data processing and NLP.  
