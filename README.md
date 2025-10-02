@@ -13,7 +13,7 @@ I am V, an AI Engineer and Data Scientist with extensive experience in developin
 
 ### Data Scientist  
 **PocketCFO**  
-*January 2025 - June 2025*  
+*January 2025 - Present*  
 - Developed AI-driven financial tools to enhance real-time financial visibility and automated forecasting for small businesses.  
 - Implemented actionable insights and key financial metrics to improve user decision-making.  
 - Collaborated on cash flow education modules and financial resource integrations to support business owners.[](https://www.trustpilot.com/review/pocketcfoapp.com)
