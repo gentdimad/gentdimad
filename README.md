@@ -5,6 +5,7 @@ I am V, an AI Engineer and Data Scientist with extensive experience in developin
 
 ### AI Engineer
 **Liamoon**
+
 *June 2025 - August 2025*
 - Finetuned LoRA modules for quantized models using SFT, DPO, GRPO for personalized chatbots that emulate content creator personalities and responses
 - Implemented a conversation summarizer that is plugged into the chat flow to extract conversation key details for improved context and responses for chatbots
