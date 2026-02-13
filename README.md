@@ -13,14 +13,14 @@ I am V, an AI Engineer and Data Scientist with extensive experience in developin
 
 ### Data Scientist  
 **PocketCFO**  
-*January 2025 - Present*  
+*December 2024 - February 2026*  
 - Developed AI-driven financial tools to enhance real-time financial visibility and automated forecasting for small businesses.  
 - Implemented actionable insights and key financial metrics to improve user decision-making.  
-- Collaborated on cash flow education modules and financial resource integrations to support business owners.[](https://www.trustpilot.com/review/pocketcfoapp.com)
+- Collaborated on financial resource integrations to support business owners.[](https:/pocketcfo.io)
 
 ### AI Engineer  
 **Pencil Labs**  
-*January 2025 - May 2025*  
+*December 2024 - May 2025*  
 - Contributed to the development of Wyth, a calendar and messaging app, integrating AI to suggest optimal meeting times and locations.  
 - Enhanced automation of repetitive tasks and improved data management for consistent user experiences.  
 - Worked on tailored AI solutions to promote resource expansion and customer engagement with minimal effort.[](https://www.crunchbase.com/organization/pencil-labs)
