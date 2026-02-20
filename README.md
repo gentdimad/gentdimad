@@ -1,8 +1,10 @@
-# Arvic Gingoyon
+# Arvic Gingoyon 
+
 ### _AI / Machine Learning Engineer_
 
-<span>I'm currently working on</span> **AI finetuning, developing Agentic workflows, creating efficient RAG systems, and building empathetic AI, at Liamoon** <br/>
-<span>At the same time, I'm also building a community to </span> **help AI adoption in the Philippines**.
+<span>I'm currently working on</span> **AI finetuning, developing Agentic workflows, creating efficient RAG systems, and building empathetic AI, at Liamoon**.
+
+<span>At the same time, I'm also building a community to </span> **help AI adoption in the Philippines**!
 
 **Fun fact:** When I'm not at my desk building, or studying, I'm most probably at a pool place in Cebu, playing 9-ball or a new game format I've been getting into- banks.
 
@@ -45,10 +47,19 @@ Reach me at **victorygingoyon@gmail.com**
 - Architected a **Business Card Scanner** service (FastAPI, OCR, Docker).
 - Built a **RAG-based system** for diverse document management.
 
-#### **AI Engineer | Xeleqt Technologies Inc.** & **Captivate** (2024)
+#### **AI Engineer | Captivate** (2024)
+- Created API endpoints for chatbot training with **vector embeddings (Azure)**.
+- Collaborated with engineers on **RAG integration** and data preparation pipelines.
+- Conducted system testing and monitoring for production AI deployments.
+
+#### **AI Engineer | Xeleqt Technologies Inc.**  (2024)
 - Head of development for a cloud-side AI agent monitoring logistics on **AWS**.
 - Developed **classic ML/NLP** for fuel anomaly detection.
-- Created API endpoints for chatbot training with **vector embeddings (Azure)**.
+
+#### **Full Stack Developer | Freelance** (2022 - 2024)
+- Engineered custom **web, mobile, and game applications** using **React, Kotlin, Matlab, Scilab, C, and Java** for diverse client needs.
+- Designed and implemented scalable **SQL (MySQL) and NoSQL (Firebase, Supabase)** architectures to optimize performance.
+- Partnered with client teams to deliver **production-ready software** from complex business requirements.
 
 
 **Education**
