@@ -1,51 +1,70 @@
-## Overview
-I am V, an AI Engineer and Data Scientist with extensive experience in developing AI agents, machine learning models, and full-stack applications. My expertise spans AWS architectures, natural language processing (NLP), Retrieval-Augmented Generation (RAG) integration, and both NoSQL and SQL database implementations. I have also contributed to innovative financial and AI-driven solutions at PocketCFO and Pencil Labs, enhancing automation and user engagement. Below is a summary of my professional experience.
+# Arvic Gingoyon
+### _AI / Machine Learning Engineer_
 
-## Professional Experience
+<span>I'm currently working on</span> **AI finetuning, developing Agentic workflows, creating efficient RAG systems, and building empathetic AI, at Liamoon** <br/>
+<span>At the same time, I'm also building a community to </span> **help AI adoption in the Philippines**.
 
-### AI Engineer
-**Liamoon**
+**Fun fact:** When I'm not at my desk building, or studying, I'm most probably at a pool place in Cebu, playing 9-ball or a new game format I've been getting into- banks.
 
-*June 2025 - August 2025*
-- Finetuned LoRA modules for quantized models using SFT, DPO, GRPO for personalized chatbots that emulate content creator personalities and responses
-- Implemented a conversation summarizer that is plugged into the chat flow to extract conversation key details for improved context and responses for chatbots
-- Developed a recommender system that suggested media_ids from Supabase depending on what type of media a user requested using an LLM and a pipeline with FastAPI
-- Organized tech workflow by implementing a task board connected to GitHub that sends automatic status updates to Slack with n8n
 
-### Data Scientist  
-**PocketCFO**  
-*December 2024 - February 2026*  
-- Developed AI-driven financial tools to enhance real-time financial visibility and automated forecasting for small businesses.  
-- Implemented actionable insights and key financial metrics to improve user decision-making.  
-- Collaborated on financial resource integrations to support business owners.[](https:/pocketcfo.io)
+**Let's Connect!**
+---
+<p align="left">
+<a href="https://linkedin.com/in/victorygingoyon" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10" alt="victorygingoyon"/></a>
+</p>
 
-### AI Engineer  
-**Pencil Labs**  
-*December 2024 - May 2025*  
-- Contributed to the development of Wyth, a calendar and messaging app, integrating AI to suggest optimal meeting times and locations.  
-- Enhanced automation of repetitive tasks and improved data management for consistent user experiences.  
-- Worked on tailored AI solutions to promote resource expansion and customer engagement with minimal effort.[](https://www.crunchbase.com/organization/pencil-labs)
+Reach me at **victorygingoyon@gmail.com**
 
-### AI Engineer  
-**Xeleqt Technologies Inc.**  
-*July 2024 - December 2024*  
-- Developed an AI agent for multiple product platforms utilizing an AWS architecture.  
-- Created multi-function capabilities for AI agents, focusing on data processing and NLP.  
-- Advised and designed machine learning models for both edge AI and cloud-side AI applications.
 
-### AI Engineer  
-**Captivate**  
-*August 2024 - December 2024*  
-- Created API endpoints for self-service training of an AI chatbot with vector embeddings.  
-- Advised on data preparation and collaborated with engineers for RAG integration.  
-- Conducted thorough testing of ingested data for quality assurance and monitoring.
+**Languages and Tools**
+---
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,pycharm,supabase,docker,aws,azure,react,mysql,php,django,git,nodejs,ts,js,html,css,firebase,tailwind,ts,ubuntu,vite,vscode,windows,postman,pkl,dynamodb,c,cs&perline=10" />
+</a>
+</p>
 
-### Full Stack Developer  
-**Freelance**  
-*2022 - 2024*  
-- Developed games, web applications, and mobile apps based on client requirements.  
-- Integrated NoSQL or SQL databases tailored to client needs.  
-- Collaborated with client teams to complete application development projects.
 
-## Contact
-For more details or inquiries, feel free to connect with me via [GitHub](https://github.com/gentdimad) or [email](mailto:gentdimad@gmail.com).
+**Professional Experience**
+---
+
+
+#### **AI Software Developer | Liamoon** (Jun 2025 - Present)
+- Finetuned **LoRA modules** (SFT, DPO, GRPO) for personalized chatbots.
+- Implemented a **conversation summarizer** for improved context.
+- Developed a **recommender system** using LLM pipelines with **FastAPI**.
+- Designed a **Graph RAG** knowledge base using automated AI pipelines.
+
+#### **Data Scientist | PocketCFO** (Dec 2024 - Feb 2026)
+- Developed AI-driven tools for **automated financial forecasting**.
+- Implemented **transaction pattern detection** (recurring payments) using DDD.
+- Created monitoring dashboards on **Redash** for transaction/sync tracking.
+
+#### **AI Engineer | Pencil Labs** (Dec 2024 - May 2025)
+- Developed an AI **tagging system** on **AWS** for content analysis.
+- Architected a **Business Card Scanner** service (FastAPI, OCR, Docker).
+- Built a **RAG-based system** for diverse document management.
+
+#### **AI Engineer | Xeleqt Technologies Inc.** & **Captivate** (2024)
+- Head of development for a cloud-side AI agent monitoring logistics on **AWS**.
+- Developed **classic ML/NLP** for fuel anomaly detection.
+- Created API endpoints for chatbot training with **vector embeddings (Azure)**.
+
+
+**Education**
+---
+- **B.S. in Computer Science (Specialized in AI)**
+- University of San Jose – Recoletos (2019 – 2024)
+
+**Relevant Coursework:** Machine Learning, NLP, Data Structures & Algorithms, Computer Vision, Intelligent Systems
+
+**Certifications**
+---
+- **PhilNITS Fundamental IT Engineer** (Nov 2023)
+- **TOPCIT Level 3** (Dec 2023)
+
+**Support**
+---
+If you're thankful for any of the work that I've been doing, you can support me by getting me coffee! 
+
+<a href='https://ko-fi.com/gentdimad' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
