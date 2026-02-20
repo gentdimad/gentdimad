@@ -6,7 +6,7 @@
 
 <span>At the same time, I'm also building a community to </span> **help AI adoption in the Philippines**!
 
-**Fun fact:** When I'm not at my desk building, or studying, I'm most probably at a pool place in Cebu, playing 9-ball or a new game format I've been getting into- banks.
+**Fun fact:** When I'm not at my desk, building, or studying, I'm most probably at a pool place in Cebu, playing 9-ball or a new game format I've been getting into- banks.
 
 
 **Let's Connect!**
